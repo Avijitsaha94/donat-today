@@ -30,7 +30,7 @@ body{
     
     height: 100vh;
     margin: 0;
-    
+    padding: 0;
     background-image:url(./images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -39,7 +39,7 @@ body{
     
    
 }
-.lekha{
+.test0{
     
     color: white;
     
@@ -154,7 +154,7 @@ body{
     color: gray;
     text-align: center;
 }
-#dv{
+#devolap{
     display: flex;
     justify-content: center;
     margin-bottom: 100px;
@@ -162,12 +162,12 @@ body{
     width: 100%;
     padding-top: 10px;
 }
-#b{
+#container{
     padding: 50px 130px;
     background-color: bisque;
    
 }
-#ss{
+#subscribe-botton{
     border: 1px #FFFFFF;
     border-radius: 0%;
     padding: 10px 40px;
